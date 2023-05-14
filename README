@@ -1,0 +1,16 @@
+# Empora
+A ruby application to check a valid address. The address list will be get from a file.
+
+# Gems
+  - httparty
+  - csv
+  - yaml
+
+# System dependencies
+  - Ruby 2.7.7
+
+# Setup Instructions
+  - Unzip/clone the project
+  - Set your AUTH_ID and AUTH_TOKEN in env.yml
+  - Run 'ruby program.rb file.csv' in project terminal
+  - You will get the output based on the address
